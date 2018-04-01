@@ -66,7 +66,7 @@ void main()
 				scanf("%d",& x);
 				root=insert(root,x);
 			}
-			printf("ready");
+		
 			break;
 
 			case 2:
